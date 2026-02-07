@@ -1,6 +1,6 @@
 # uniqloStoreStock
 优衣库库存监控
-可使用青龙面板https://github.com/whyour/qinglong定时查询
+可使用青龙面板https://github.com/whyour/qinglong 定时查询
 通知使用wxpush
 
 # 环境变量
